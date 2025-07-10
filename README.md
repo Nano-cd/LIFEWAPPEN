@@ -1,6 +1,6 @@
 ### **LIFEWAPPEN 系统核心框架**
 
-![image](https://github.com/Nano-cd/LIFEWAPPEN/Untitled3.gif)
+![image](https://github.com/Nano-cd/LIFEWAPPEN/lifewappenV1.0.gif)
 
 **1. 角色面板 (Character Panel):**
 
